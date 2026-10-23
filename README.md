@@ -52,4 +52,4 @@ pytest
 
 ---
 
-Made by [Thales Freitas](https://www.linkedin.com/in/thales-freitas-64527924a)
+Made by [Thales Freitas](https://www.linkedin.com/in/thalesfreitas-dev)
